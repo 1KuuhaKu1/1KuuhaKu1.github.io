@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 空白的博客</title>
+    <link>https://github.com/1KuuhaKu1/1KuuhaKu1.github.io/post/</link>
+    <description>Recent content in Posts on 空白的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Oct 2020 16:04:58 +0800</lastBuildDate>
+    
+	<atom:link href="https://github.com/1KuuhaKu1/1KuuhaKu1.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://github.com/1KuuhaKu1/1KuuhaKu1.github.io/post/test/</link>
+      <pubDate>Mon, 05 Oct 2020 16:04:58 +0800</pubDate>
+      
+      <guid>https://github.com/1KuuhaKu1/1KuuhaKu1.github.io/post/test/</guid>
+      <description> 测试文档 </description>
+    </item>
+    
+  </channel>
+</rss>
